@@ -1,93 +1,85 @@
-```markdown
-<div align="center">
+<!-- Profile Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Praneeth%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20Research&descAlignY=58&descSize=17" width="100%" alt="Profile banner"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated coding banner" width="100%">
 
-### Hi, I'm Praneeth Kumar Kollikondla 👋
+<h1 align="center">Hi 👋, I'm Praneeth Kumar Kollikondla</h1>
 
-**Computer Science Engineer | AI Research Enthusiast | Cloud Technology Explorer**
+<h3 align="center">AI/ML Enthusiast | Aspiring Researcher | Cloud Computing Explorer</h3>
 
-[LinkedIn](https://www.linkedin.com/in/praneeth-kollikondla/) · [ResearchGate](https://www.researchgate.net/profile/Praneeth-Kumar-Kollikondla) · [Email](mailto:kumarkumar111611@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/praneeth-kollikondla">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://g.dev/praneethkumar">
+    <img src="https://img.shields.io/badge/Google_Developers-Profile-4285F4?style=for-the-badge&logo=google" alt="Google Developers">
+  </a>
+  <a href="mailto:kumarkumar111611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-</div>
+<img align="right" alt="Coding animation" width="320" src="https://media.tenor.com/Dd7FXom94DAAAAAM/smile-cute.gif">
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+🎓 M.Tech graduate in AI & Data Science with First-Class Distinction.
 
-- 🎓 **M.Tech in Computer Science and Engineering** — KL University
-- 🎓 **B.Tech in Computer Science and Engineering** — Adikavi Nannaya University
-- 📜 UGC-NET qualified for Assistant Professor and Ph.D. admission
-- 🔬 Interested in developing secure, robust, and trustworthy AI systems
-- ☁️ Exploring cloud technologies, intelligent applications, and practical machine learning solutions
-- 🚀 Motivated by research, experimentation, and continuous learning
+🔬 Interested in AI/ML research and building intelligent, reliable systems.
 
-## 🔬 Research Interests
+🛡️ Exploring trustworthy AI, adversarial learning, explainable AI, and privacy-preserving machine learning.
 
-- Trustworthy and Robust Artificial Intelligence
-- Adversarial Machine Learning and AI Security
-- Explainable AI (XAI)
-- Federated and Privacy-Preserving Learning
-- Natural Language Processing and Text Classification
-- Machine Learning for Healthcare Analytics
+☁️ Exploring cloud computing, cloud-native technologies, and AI deployment.
 
-## 🛠️ Technical Skills
+🏅 UGC-NET qualified for Assistant Professor and Ph.D. admission.
 
-**Languages**
+📚 Interested in research, experimentation, and turning ideas into practical solutions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+🎵 Fun fact: Music keeps me inspired!
 
-**AI, Data Science & Development**
+🔬 Research Interests
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2E8B57?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-1565C0?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+Artificial Intelligence · Machine Learning · Deep Learning · Trustworthy AI · Adversarial Learning · Explainable AI (XAI) · Federated Learning · Cybersecurity
 
-**Cloud & Tools**
+🛠️ Languages, Technologies & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="42"/></a>
+  <a href="https://www.oracle.com/cloud/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+</p>
 
-## 📜 Certifications
+🏆 Certifications & Achievements
 
-- AWS Certified Cloud Practitioner
-- Oracle Cloud Infrastructure Foundations Associate
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Google Cloud Skills Boost — AI Agent Fundamentals and Generative AI Fundamentals
-- Cisco Programming Essentials in Python (PCAP)
+AWS Certified Cloud Practitioner
 
-## 🚀 Research & Project Focus
+Oracle Cloud Infrastructure Foundations Associate
 
-**AI for Healthcare**  
-Exploring machine learning approaches for personalized healthcare recommendations using electronic health record data.
+Oracle Cloud Infrastructure AI Foundations Associate
 
-**Domain-Specific NLP**  
-Investigating text classification techniques for specialized domains and practical applications.
+Google Cloud Skills Boost — AI Agent Fundamentals
 
-**Secure & Trustworthy AI**  
-Exploring robustness, explainability, adversarial learning, and privacy-aware AI systems.
+Google Cloud Skills Boost — Generative AI Fundamentals
 
-## 📊 GitHub Activity
+UGC-NET qualified for Assistant Professor and Ph.D. admission
 
-<div align="center">
+📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-kpk&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub statistics"/>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-kpk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kpk&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kpk&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Most used languages"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-kpk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-*“Curiosity drives research. Consistency turns ideas into impact.”*
-
-</div>
-```
+<p align="center">
+  <i>"Curiosity drives research. Experimentation turns ideas into discoveries."</i>
+</p>
